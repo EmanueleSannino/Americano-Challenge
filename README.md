@@ -1,4 +1,4 @@
-PFlow is a sleek and efficient productivity application built around the Pomodoro technique, designed to help users focus and manage their tasks effectively. 
+### **PFlow** is a sleek and efficient productivity application built around the Pomodoro technique, designed to help users focus and manage their tasks effectively. 
 
 ### Key Features:
 1. Pomodoro Timer:
